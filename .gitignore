@@ -1,0 +1,5 @@
+.env
+meds
+*csv
+*pkl
+__pycache__
